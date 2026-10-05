@@ -1,3 +1,4 @@
 Johannes Kepler[n 1] (ou Keppler), né le 27 décembre 1571 à Weil der Stadt et mort le 15 novembre 1630 à Ratisbonne, est un astronome allemand célèbre pour avoir étudié l'hypothèse héliocentrique de Nicolas Copernic, affirmant que la Terre tourne autour du Soleil, et surtout pour avoir découvert que les planètes ne tournent pas autour du Soleil en suivant des trajectoires circulaires parfaites, mais elliptiques.
 
 Kepler découvre les relations mathématiques (dites lois de Kepler) qui régissent les mouvements des planètes sur leur orbite. Ces relations sont ensuite exploitées par Isaac Newton pour élaborer la théorie de la gravitation universelle[1].
+je modifie
