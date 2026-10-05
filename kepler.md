@@ -2,3 +2,4 @@ Johannes Kepler[n 1] (ou Keppler), né le 27 décembre 1571 à Weil der Stadt et
 
 Kepler découvre les relations mathématiques (dites lois de Kepler) qui régissent les mouvements des planètes sur leur orbite. Ces relations sont ensuite exploitées par Isaac Newton pour élaborer la théorie de la gravitation universelle[1].
 je modifie
+il est mort à un moment
